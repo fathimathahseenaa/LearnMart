@@ -50,9 +50,6 @@ LearnMart is a web-based online course platform that allows users to enroll in a
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For inquiries, reach out to **fathimathahseenaa@gmail.com**
 
